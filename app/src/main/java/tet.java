@@ -4,4 +4,5 @@ public class Tet extends Shape {
     public Tet(int x, int y) {
         super(x, y);
     }
+
 }
